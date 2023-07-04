@@ -6,7 +6,7 @@ plugins
 user_trunk.yaml
 user.yaml
 shims
-.terraform
+*.terraform
 *.tfstate
 *.tfstate.backup
 .terraform.lock.hcl
