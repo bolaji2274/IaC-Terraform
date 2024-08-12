@@ -19,7 +19,7 @@ Please note that this code was written for Terraform 1.x.
 
 **Please note that this example will deploy real resources into your AWS account. We have made every effort to ensure 
 all the resources qualify for the [AWS Free Tier](https://aws.amazon.com/free/), but we are not responsible for any
-charges you may incur.** 
+charges you may incur ...** 
 
 Configure your [AWS access 
 keys](http://docs.aws.amazon.com/general/latest/gr/aws-sec-cred-types.html#access-keys-and-secret-access-keys) as 
